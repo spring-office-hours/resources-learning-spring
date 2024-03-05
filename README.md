@@ -11,7 +11,7 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [Spring Academy](https://www.youtube.com/c/SpringAcademy)
 - [Spring I/O](https://spring.io/blog)
 - [Spring Blog](https://spring.io/blog)
-- [GitHub Spring Projects](https://github.com/spring-projects0
+- [GitHub Spring Projects](https://github.com/spring-projects)
 
 ## Documentation
 
@@ -38,7 +38,6 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [Pro Coder Show](https://podcasters.spotify.com/pod/show/procodershow)
 - [Inside Java Podcast](https://inside.java/podcast/)
 - [The InfoQ Podcast](https://www.infoq.com/the-infoq-podcast/)
-- 
 
 ## YouTube
 
