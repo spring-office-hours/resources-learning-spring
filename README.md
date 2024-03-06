@@ -72,6 +72,7 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [Dan Vega](https://www.danvega.dev/)
 - [DaShaun Carter](https://dashaun.com/posts/)
 - [Spring How](https://springhow.com/)
+- [Spring Framework Guru](https://springframework.guru/)
 
 ## Events / Conferences 
 
