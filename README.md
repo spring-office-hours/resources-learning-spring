@@ -8,8 +8,8 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 ](https://www.youtube.com/watch?v=W0u9XaCyWPo)
 
 ## Spring
-- [Spring Academy](https://www.youtube.com/c/SpringAcademy)
-- [Spring I/O](https://spring.io/blog)
+- [Spring](https://spring.io)
+- [Spring Academy](https://spring.academy/)
 - [Spring Blog](https://spring.io/blog)
 - [GitHub Spring Projects](https://github.com/spring-projects)
 
@@ -21,14 +21,8 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [Spring Boot API](https://docs.spring.io/spring-boot/docs/current/api/)
 - [Spring Boot Guides](https://spring.io/guides)
 
-## Spring Upgrade Resources
-
-- [Open ReWrite Project - Popular Recipe Guides](https://docs.openrewrite.org/running-recipes/popular-recipe-guides)
-- [Migrate from Spring Boot to Spring Boot 3](https://docs.openrewrite.org/running-recipes/popular-recipe-guides/migrate-to-spring-3)
-  
 ## Books
 
-- [Spring Start Here - Laurentiu Spilca](https://a.co/d/5yug5mi)
 - [Spring Boot Up and Running - Mark Heckler](https://amzn.to/3WOSutb)
 - [Learning Spring Boot 3.0 - Greg Turnquist](https://amzn.to/3CuCgxc)
 - [Spring Boot in Action - Craig Walls](https://amzn.to/3ZcI3kx)
@@ -36,6 +30,7 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [Cloud Native Spring in Action - Thomas Vitale](https://amzn.to/49SQcjj)
 - [Spring Security in Action - Laurentiu Spilca](https://amzn.to/3UYyUwp)
 - [Professional Java Development with the Spring Framework - Rod Johnson](https://amzn.to/3wOLyUv)
+- [Spring Start Here - Laurentiu Spilca](https://a.co/d/5yug5mi)
 
 ## Podcasts
 
@@ -62,6 +57,7 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [Laur Spilca](https://www.youtube.com/LaurentiuSpilca)
 - [Telusko](https://www.youtube.com/@Telusko)
 - [SivaLabs](https://www.youtube.com/@sivalabs)
+- [Spring I/O](https://www.youtube.com/channel/UCLMPXsvSrhNPN3i9h-u8PYg)
 
 ## Blogs
 
@@ -79,7 +75,7 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 ## Events / Conferences 
 
 - [SpringOne at VMware Explore](https://springone.io/)
-- [Spring I/O](https://2024.springio.net/)
+- [Spring I/O](http://springio.net/)
 - [Java User Groups](https://dev.java/community/jugs/)
 - [Devnexus](https://www.devnexus.com/)
 - [Devoxx](https://www.devoxx.com/)
@@ -91,6 +87,11 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 
 - [Spring PetClinic](https://github.com/spring-projects/spring-petclinic)
 - [Spring PetClinic Microservices](https://github.com/spring-petclinic/spring-petclinic-microservices)
+
+## Spring Upgrade Resources
+
+- [Open ReWrite Project - Popular Recipe Guides](https://docs.openrewrite.org/running-recipes/popular-recipe-guides)
+- [Migrate from Spring Boot to Spring Boot 3](https://docs.openrewrite.org/running-recipes/popular-recipe-guides/migrate-to-spring-3)
 
 ## Community Favorites
 
