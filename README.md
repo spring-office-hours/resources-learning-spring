@@ -60,6 +60,7 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [Marco Codes](https://www.youtube.com/@MarcoCodes)
 - [Laur Spilca](https://www.youtube.com/LaurentiuSpilca)
 - [Telusko](https://www.youtube.com/@Telusko)
+- [SivaLabs](https://www.youtube.com/@sivalabs)
 
 ## Blogs
 
