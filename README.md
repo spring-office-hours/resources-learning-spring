@@ -75,7 +75,7 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 ## Events / Conferences 
 
 - [SpringOne at VMware Explore](https://springone.io/)
-- [Spring I/O](http://springio.net/)
+- [Spring I/O](https://springio.net/)
 - [Java User Groups](https://dev.java/community/jugs/)
 - [Devnexus](https://www.devnexus.com/)
 - [Devoxx](https://www.devoxx.com/)
