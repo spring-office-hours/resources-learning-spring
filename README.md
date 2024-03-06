@@ -21,6 +21,11 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [Spring Boot API](https://docs.spring.io/spring-boot/docs/current/api/)
 - [Spring Boot Guides](https://spring.io/guides)
 
+## Spring Upgrade Resources
+
+- [Open ReWrite Project - Popular Recipe Guides](https://docs.openrewrite.org/running-recipes/popular-recipe-guides)
+- [Migrate from Spring Boot to Spring Boot 3](https://docs.openrewrite.org/running-recipes/popular-recipe-guides/migrate-to-spring-3)
+  
 ## Books
 
 - [Spring Boot Up and Running - Mark Heckler](https://amzn.to/3WOSutb)
