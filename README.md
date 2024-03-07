@@ -73,6 +73,7 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [DaShaun Carter](https://dashaun.com/posts/)
 - [Spring How](https://springhow.com/)
 - [Spring Framework Guru](https://springframework.guru/)
+- [Rashidi Zin's Spring Boot Tutorials](https://rashidi.github.io/spring-boot-tutorials/)
 
 ## Events / Conferences 
 
