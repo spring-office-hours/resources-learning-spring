@@ -52,7 +52,7 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [Amigoscode](https://www.youtube.com/@amigoscode)
 - [Java Brains](https://www.youtube.com/c/JavaBrainsChannel)
 - [Daily Code Buffer](https://www.youtube.com/@DailyCodeBuffer)
-- [JitterTed](https://www.youtube.com/c/JitterTed/)
+- [Ted M. Young, aka JitterTed](https://www.youtube.com/@JitterTed)
 - [Marco Codes](https://www.youtube.com/@MarcoCodes)
 - [Laur Spilca](https://www.youtube.com/LaurentiuSpilca)
 - [Telusko](https://www.youtube.com/@Telusko)
