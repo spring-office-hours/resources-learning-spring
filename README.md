@@ -46,7 +46,6 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [Josh Long](https://www.youtube.com/@coffeesoftware)
 - [Dan Vega](https://www.youtube.com/@danvega)
 - [DaShaun Carter](https://www.youtube.com/@dashaun)
-- [Spring Boot Learning](https://www.youtube.com/@SpringBootLearning)
 - [Pro Coder](https://www.youtube.com/@ProCoderIO)
 - [Spring Tips](https://www.youtube.com/playlist?list=PLgGXSWYM2FpPw8rV0tZoMiJYSCiLhPnOc)
 - [Amigoscode](https://www.youtube.com/@amigoscode)
