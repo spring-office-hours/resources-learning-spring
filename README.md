@@ -60,7 +60,7 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [Ali BOUALI](https://www.youtube.com/@BoualiAli)
 - [Devtiro](https://www.youtube.com/@devtiro)
 - [in28minutes](https://www.youtube.com/@in28minutes)
-
+- [Simon Martinelli](https://www.youtube.com/@simonmartinelli)
 
 ## Blogs
 
