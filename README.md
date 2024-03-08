@@ -58,6 +58,8 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [Telusko](https://www.youtube.com/@Telusko)
 - [SivaLabs](https://www.youtube.com/@sivalabs)
 - [Spring I/O](https://www.youtube.com/channel/UCLMPXsvSrhNPN3i9h-u8PYg)
+- [Ali BOUALI](https://www.youtube.com/@BoualiAli)
+- [Devtiro](https://www.youtube.com/@devtiro)
 
 ## Blogs
 
