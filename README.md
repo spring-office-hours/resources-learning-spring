@@ -31,6 +31,7 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [Spring Security in Action - Laurentiu Spilca](https://amzn.to/3UYyUwp)
 - [Professional Java Development with the Spring Framework - Rod Johnson](https://amzn.to/3wOLyUv)
 - [Spring Start Here - Laurentiu Spilca](https://a.co/d/5yug5mi)
+- [Pro Spring Boot](https://www.amazon.com/Pro-Spring-Boot-Authoritative-Microservices-ebook/dp/B07G2NSBCS)
 
 ## Podcasts
 
@@ -62,6 +63,7 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [in28minutes](https://www.youtube.com/@in28minutes)
 - [Simon Martinelli](https://www.youtube.com/@simonmartinelli)
 - [EmbarkX](https://www.youtube.com/@EmbarkX)
+- [Java Guides](https://youtube.com/playlist?list=PLGRDMO4rOGcOKUURLsVMKZbCZhZJNtEwW&si=7WxJWaoqCZEr_rk7)
 
 ## Blogs
 
@@ -77,6 +79,12 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [DaShaun Carter](https://dashaun.com/posts/)
 - [Spring How](https://springhow.com/)
 - [Spring Framework Guru](https://springframework.guru/)
+- [Tanzu VMware](https://tanzu.vmware.com/spring-boot)
+- [JavaTpoint](https://www.javatpoint.com/spring-tutorial)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/spring/)
+- [CalliCoder](https://www.callicoder.com/categories/spring-boot/)
+- [TutorialsPoint](https://www.tutorialspoint.com/spring/index.htm)
+- [Java Guides](https://www.javaguides.net/p/spring-boot-tutorial.html)
 
 ## Events / Conferences 
 
@@ -105,3 +113,4 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [Spring Users - LinkedIn Group](https://www.linkedin.com/groups/46964/)
 - [Spring Boot Developers - Facebook Group](https://www.facebook.com/groups/springbootdevs)
 - [Reddit - Spring Boot](https://www.reddit.com/r/SpringBoot/)
+- [StackOverflow](https://stackoverflow.com/questions/tagged/spring-boot)
