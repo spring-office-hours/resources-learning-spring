@@ -59,6 +59,7 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [SivaLabs](https://www.youtube.com/@sivalabs)
 - [Spring I/O](https://www.youtube.com/channel/UCLMPXsvSrhNPN3i9h-u8PYg)
 - [Devtiro](https://www.youtube.com/@devtiro)
+- [in28minutes - Get Cloud Certified](https://www.youtube.com/@in28minutes)
 
 ## Blogs
 
