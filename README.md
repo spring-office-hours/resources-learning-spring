@@ -61,6 +61,7 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [Devtiro](https://www.youtube.com/@devtiro)
 - [in28minutes](https://www.youtube.com/@in28minutes)
 - [Simon Martinelli](https://www.youtube.com/@simonmartinelli)
+- [EmbarkX](https://www.youtube.com/@EmbarkX)
 
 ## Blogs
 
