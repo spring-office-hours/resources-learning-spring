@@ -27,7 +27,7 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [Learning Spring Boot 3.0 - Greg Turnquist](https://amzn.to/3CuCgxc)
 - [Spring in Action, 6th Edition - Craig Walls](https://amzn.to/49JIgAE)
 - [Reactive Spring - Josh Long](https://amzn.to/49SQcjj)
-- [Cloud Native Spring in Action - Thomas Vitale](https://amzn.to/49SQcjj](https://amzn.to/43bBwt2)
+- [Cloud Native Spring in Action - Thomas Vitale](https://amzn.to/43bBwt2)
 - [Spring Security in Action - Laurentiu Spilca](https://amzn.to/3UYyUwp)
 - [Professional Java Development with the Spring Framework - Rod Johnson](https://amzn.to/3wOLyUv)
 - [Spring Start Here - Laurentiu Spilca](https://a.co/d/5yug5mi)
