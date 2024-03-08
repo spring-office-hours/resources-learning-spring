@@ -31,7 +31,7 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [Spring Security in Action - Laurentiu Spilca](https://amzn.to/3UYyUwp)
 - [Professional Java Development with the Spring Framework - Rod Johnson](https://amzn.to/3wOLyUv)
 - [Spring Start Here - Laurentiu Spilca](https://a.co/d/5yug5mi)
-- [Pro Spring Boot](https://link.springer.com/book/10.1007/978-1-4842-1431-2)
+- [Pro Spring Boot](https://www.amazon.com/Pro-Spring-Boot-Authoritative-Microservices-ebook/dp/B07G2NSBCS)
 
 ## Podcasts
 
