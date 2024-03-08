@@ -93,6 +93,7 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 
 - [Spring PetClinic](https://github.com/spring-projects/spring-petclinic)
 - [Spring PetClinic Microservices](https://github.com/spring-petclinic/spring-petclinic-microservices)
+- [Rashidi Zin's Spring Boot Tutorials](https://rashidi.github.io/spring-boot-tutorials/)
 
 ## Spring Upgrade Resources
 
