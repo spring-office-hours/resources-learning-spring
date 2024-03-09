@@ -32,6 +32,8 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [Professional Java Development with the Spring Framework - Rod Johnson](https://amzn.to/3wOLyUv)
 - [Spring Start Here - Laurentiu Spilca](https://a.co/d/5yug5mi)
 - [Pro Spring Boot](https://www.amazon.com/Pro-Spring-Boot-Authoritative-Microservices-ebook/dp/B07G2NSBCS)
+- [Spring Boot in Action - Craig Walls](https://www.amazon.com/Spring-Boot-Action-Craig-Walls/dp/1617292540)
+- [Spring 5 Design Patterns: Master efficient application development with patterns such as proxy, singleton, the template method, and more - Dinesh Rajput](https://www.amazon.com/Spring-Design-Patterns-application-development/dp/1788299450)
 
 ## Podcasts
 
