@@ -32,6 +32,7 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [Professional Java Development with the Spring Framework - Rod Johnson](https://amzn.to/3wOLyUv)
 - [Spring Start Here - Laurentiu Spilca](https://a.co/d/5yug5mi)
 - [Pro Spring Boot](https://www.amazon.com/Pro-Spring-Boot-Authoritative-Microservices-ebook/dp/B07G2NSBCS)
+- [Spring Microservices in Action, Second Edition - John Carnell](https://a.co/d/hpsnjP9)
 
 ## Podcasts
 
