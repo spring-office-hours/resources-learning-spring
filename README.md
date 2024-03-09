@@ -67,7 +67,7 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [Java Guides](https://youtube.com/playlist?list=PLGRDMO4rOGcOKUURLsVMKZbCZhZJNtEwW&si=7WxJWaoqCZEr_rk7)
 - [Java Techie](https://youtube.com/@Javatechie?si=7ljx4l_syDlrkjfA)
 - [Programming Techie](https://youtube.com/@ProgrammingTechie?si=r-tdB1v4Ng7lx5Yb)
-- [Maciej Walkowiak[(https://www.youtube.com/springacademy)
+- [Maciej Walkowiak](https://www.youtube.com/springacademy)
 
 ## Blogs
 
