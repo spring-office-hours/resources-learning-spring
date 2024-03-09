@@ -88,6 +88,7 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [CalliCoder](https://www.callicoder.com/categories/spring-boot/)
 - [TutorialsPoint](https://www.tutorialspoint.com/spring/index.htm)
 - [Java Guides](https://www.javaguides.net/p/spring-boot-tutorial.html)
+- [Maciej Walkowiak](https://maciejwalkowiak.com/)
 
 ## Events / Conferences 
 
