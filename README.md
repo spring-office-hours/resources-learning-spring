@@ -89,6 +89,7 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [TutorialsPoint](https://www.tutorialspoint.com/spring/index.htm)
 - [Java Guides](https://www.javaguides.net/p/spring-boot-tutorial.html)
 - [Maciej Walkowiak](https://maciejwalkowiak.com/)
+- [Vlad Mihalcea](https://vladmihalcea.com/blog/)
 
 ## Events / Conferences 
 
