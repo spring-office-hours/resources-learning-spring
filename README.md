@@ -32,6 +32,8 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [Professional Java Development with the Spring Framework - Rod Johnson](https://amzn.to/3wOLyUv)
 - [Spring Start Here - Laurentiu Spilca](https://a.co/d/5yug5mi)
 - [Pro Spring Boot](https://www.amazon.com/Pro-Spring-Boot-Authoritative-Microservices-ebook/dp/B07G2NSBCS)
+- [Java Persistence with Spring Data and Hibernate](https://www.amazon.com/Java-Persistence-Spring-Data-Hibernate/dp/1617299189)
+- [Pro Spring MVC with WebFlux: Web Development in Spring Framework 5 and Spring Boot 2](https://www.amazon.com/Pro-Spring-MVC-WebFlux-Development/dp/1484256654)
 
 ## Podcasts
 
