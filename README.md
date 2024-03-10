@@ -34,6 +34,8 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [Pro Spring Boot](https://www.amazon.com/Pro-Spring-Boot-Authoritative-Microservices-ebook/dp/B07G2NSBCS)
 - [Spring Microservices in Action, Second Edition - John Carnell](https://a.co/d/hpsnjP9)
 - [Troubleshooting Java - Laurentiu Spilca](https://a.co/d/1NLYVMs)
+- [Java Persistence with Spring Data and Hibernate](https://www.amazon.com/Java-Persistence-Spring-Data-Hibernate/dp/1617299189)
+- [Pro Spring MVC with WebFlux: Web Development in Spring Framework 5 and Spring Boot 2](https://www.amazon.com/Pro-Spring-MVC-WebFlux-Development/dp/1484256654)
 
 ## Podcasts
 
