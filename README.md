@@ -32,6 +32,8 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [Professional Java Development with the Spring Framework - Rod Johnson](https://amzn.to/3wOLyUv)
 - [Spring Start Here - Laurentiu Spilca](https://a.co/d/5yug5mi)
 - [Pro Spring Boot](https://www.amazon.com/Pro-Spring-Boot-Authoritative-Microservices-ebook/dp/B07G2NSBCS)
+- [Spring Microservices in Action, Second Edition - John Carnell](https://a.co/d/hpsnjP9)
+- [Troubleshooting Java - Laurentiu Spilca](https://a.co/d/1NLYVMs)
 
 ## Podcasts
 
@@ -66,7 +68,7 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [Java Guides](https://youtube.com/playlist?list=PLGRDMO4rOGcOKUURLsVMKZbCZhZJNtEwW&si=7WxJWaoqCZEr_rk7)
 - [Java Techie](https://youtube.com/@Javatechie?si=7ljx4l_syDlrkjfA)
 - [Programming Techie](https://youtube.com/@ProgrammingTechie?si=r-tdB1v4Ng7lx5Yb)
-- [Maciej Walkowiak[(https://www.youtube.com/springacademy)
+- [Maciej Walkowiak](https://www.youtube.com/springacademy)
 
 ## Blogs
 
@@ -89,6 +91,7 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [TutorialsPoint](https://www.tutorialspoint.com/spring/index.htm)
 - [Java Guides](https://www.javaguides.net/p/spring-boot-tutorial.html)
 - [Maciej Walkowiak](https://maciejwalkowiak.com/)
+- [Vlad Mihalcea](https://vladmihalcea.com/blog/)
 
 ## Events / Conferences 
 
