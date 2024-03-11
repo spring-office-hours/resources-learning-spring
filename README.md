@@ -75,6 +75,7 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [Programming Techie](https://youtube.com/@ProgrammingTechie?si=r-tdB1v4Ng7lx5Yb)
 - [Maciej Walkowiak](https://www.youtube.com/springacademy)
 
+
 ## Blogs
 
 - [Baeldung](https://www.baeldung.com/)
@@ -97,6 +98,7 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [Java Guides](https://www.javaguides.net/p/spring-boot-tutorial.html)
 - [Maciej Walkowiak](https://maciejwalkowiak.com/)
 - [Vlad Mihalcea](https://vladmihalcea.com/blog/)
+- [How To Do In Java](https://howtodoinjava.com/series/spring-boot/)
 
 ## Events / Conferences 
 
