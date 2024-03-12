@@ -74,6 +74,7 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [Java Techie](https://youtube.com/@Javatechie?si=7ljx4l_syDlrkjfA)
 - [Programming Techie](https://youtube.com/@ProgrammingTechie?si=r-tdB1v4Ng7lx5Yb)
 - [Maciej Walkowiak](https://www.youtube.com/springacademy)
+- [Mohamed YOUSSFI: French channel](https://www.youtube.com/@mohamedYoussfi)
 
 
 ## Blogs
@@ -128,3 +129,4 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [Spring Boot Developers - Facebook Group](https://www.facebook.com/groups/springbootdevs)
 - [Reddit - Spring Boot](https://www.reddit.com/r/SpringBoot/)
 - [StackOverflow](https://stackoverflow.com/questions/tagged/spring-boot)
+- [Gitter](https://gitter.im/spring-projects/home)
