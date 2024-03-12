@@ -75,6 +75,7 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [Programming Techie](https://youtube.com/@ProgrammingTechie?si=r-tdB1v4Ng7lx5Yb)
 - [Maciej Walkowiak](https://www.youtube.com/springacademy)
 - [Mohamed YOUSSFI: French channel](https://www.youtube.com/@mohamedYoussfi)
+- [Selenium Express](https://www.youtube.com/@SeleniumExpress)
 
 
 ## Blogs
