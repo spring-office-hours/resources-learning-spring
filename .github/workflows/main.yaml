@@ -5,6 +5,9 @@ on:
     branches:
       - dashaun
 
+permissions:
+  contents: read
+  pull-requests: write
 jobs:
   run-script-and-commit:
     runs-on: ubuntu-latest
@@ -33,4 +36,5 @@ jobs:
       - name: Push Changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GH_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
