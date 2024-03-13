@@ -3,7 +3,7 @@ name: Create bookmarks
 on:
   push:
     branches:
-      - dashaun
+      - main
 
 permissions:
   pull-requests: write
