@@ -20,15 +20,10 @@ jobs:
           git config user.name "DaShaun"
 
       - name: Download Release File
-        uses: softprops/action-gh-release@v2
-        with:
-          files: |
-            spring-office-hours/mdtohtml-cli/mdtohtml-x86_64
-          token: ${{ secrets.GH_TOKEN }}
-
-      - run: |
-          chmod +x ./mdtohtml-linux-x86_64
-          ./mdtohtml-linux-x86_64
+        run: |
+          curl https://github.com/spring-office-hours/mdtohtml-cli/releases/download/v0.0.9/mdtohtml-linux-x86_64 -o ./mdtohtml
+          chmod +x ./mdtohtml
+          ./mdtohtml
 
       - name: Commit Changes
         run: |
