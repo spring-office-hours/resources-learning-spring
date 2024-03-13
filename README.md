@@ -76,7 +76,7 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [Maciej Walkowiak](https://www.youtube.com/springacademy)
 - [Mohamed YOUSSFI: French channel](https://www.youtube.com/@mohamedYoussfi)
 - [Selenium Express](https://www.youtube.com/@SeleniumExpress)
-
+- [The Tech Mojo](https://youtube.com/@TheTechMojo)
 
 ## Blogs
 
@@ -102,6 +102,7 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [Vlad Mihalcea](https://vladmihalcea.com/blog/)
 - [How To Do In Java](https://howtodoinjava.com/series/spring-boot/)
 - [Mkyong Spring Boot](https://mkyong.com/tutorials/spring-boot-tutorials/)
+- [StackTips Spring Boot](https://stacktips.com/topics/spring-boot)
 
 ## Events / Conferences 
 
@@ -119,6 +120,7 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [Spring PetClinic](https://github.com/spring-projects/spring-petclinic)
 - [Spring PetClinic Microservices](https://github.com/spring-petclinic/spring-petclinic-microservices)
 - [Rashidi Zin's Spring Boot Tutorials](https://rashidi.github.io/spring-boot-tutorials/)
+- [StackTips Spring Boot Tutorials](https://github.com/StackTipsLab/spring-boot-tutorials)
 
 ## Spring Upgrade Resources
 
