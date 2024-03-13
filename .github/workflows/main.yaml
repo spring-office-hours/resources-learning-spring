@@ -1,0 +1,42 @@
+name: Create bookmarks
+
+on:
+  push:
+    branches:
+      - dashaun
+
+permissions:
+  pull-requests: write
+  contents: write
+  repository-projects: write
+jobs:
+  run-script-and-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: '${{github.ref_name}}'
+
+      - name: Set up Git
+        run: |
+          git config user.email "dashaun@springofficehours.io"
+          git config user.name "DaShaun"
+
+      - name: Download Release File
+        run: |
+          curl -L -O https://github.com/spring-office-hours/mdtohtml-cli/releases/download/v0.0.9/mdtohtml-linux-x86_64
+          mv ./mdtohtml-linux-x86_64 ./mdtohtml
+          chmod +x ./mdtohtml
+          ./mdtohtml
+
+      - name: Commit Changes
+        run: |
+          git add bookmarks.html
+          git commit -m "Workflow updated bookmarks.html"
+
+      - name: Push Changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
