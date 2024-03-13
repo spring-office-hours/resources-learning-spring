@@ -101,6 +101,7 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [Maciej Walkowiak](https://maciejwalkowiak.com/)
 - [Vlad Mihalcea](https://vladmihalcea.com/blog/)
 - [How To Do In Java](https://howtodoinjava.com/series/spring-boot/)
+- [Mkyong Spring Boot](https://mkyong.com/tutorials/spring-boot-tutorials/)
 
 ## Events / Conferences 
 
