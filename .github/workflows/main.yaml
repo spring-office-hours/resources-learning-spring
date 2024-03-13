@@ -33,6 +33,7 @@ jobs:
       - name: Commit Changes
         run: |
           git add bookmarks.html
+          git status
           git diff --quiet || git commit -m "Workflow updated bookmarks.html"
 
       - name: Push Changes
