@@ -39,6 +39,7 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [Java Persistence with Spring Data and Hibernate](https://www.amazon.com/Java-Persistence-Spring-Data-Hibernate/dp/1617299189)
 - [Pro Spring MVC with WebFlux: Web Development in Spring Framework 5 and Spring Boot 2](https://www.amazon.com/Pro-Spring-MVC-WebFlux-Development/dp/1484256654)
 - [Spring Boot in Practice - Somnath Musib](https://www.amazon.com/Spring-Boot-Practice-Somnath-Musib/dp/1617298816)
+- [Pro Spring 6: An In-Depth Guide to the Spring Framework - Iuliana Cosmina, Rob Harrop, Chris Schaefer, Clarence Ho](https://www.amazon.com/Pro-Spring-Depth-Guide-Framework/dp/1484286391)
 
 ## Podcasts
 
