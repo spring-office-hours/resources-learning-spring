@@ -4,8 +4,7 @@ On a recent episode of the Spring Office Hours Podcast we talked about the best 
 repository to live as a resource for people to find the best resources for learning Spring. We are looking for the best books,
 courses, videos, and anything else that you have found helpful in learning Spring. If you have suggestions please open a pull request.
 
-[Spring Office Hours: S3E8 - Resources for learning Spring
-](https://www.youtube.com/watch?v=W0u9XaCyWPo)
+[Spring Office Hours: S3E8 - Resources for learning Spring](https://www.youtube.com/watch?v=W0u9XaCyWPo)
 
 ## Spring
 - [Spring](https://spring.io)
@@ -79,6 +78,7 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [Mohamed YOUSSFI: French channel](https://www.youtube.com/@mohamedYoussfi)
 - [Selenium Express](https://www.youtube.com/@SeleniumExpress)
 - [The Tech Mojo](https://youtube.com/@TheTechMojo)
+- [Teddy Smith](https://www.youtube.com/@TeddySmithDev)
 
 ## Blogs
 
@@ -123,6 +123,7 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [Spring PetClinic Microservices](https://github.com/spring-petclinic/spring-petclinic-microservices)
 - [Rashidi Zin's Spring Boot Tutorials](https://rashidi.github.io/spring-boot-tutorials/)
 - [StackTips Spring Boot Tutorials](https://github.com/StackTipsLab/spring-boot-tutorials)
+- [Pokemon Review Spring Boot](https://github.com/teddysmithdev/pokemon-review-springboot)
 
 ## Spring Upgrade Resources
 
