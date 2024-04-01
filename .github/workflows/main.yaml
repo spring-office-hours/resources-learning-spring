@@ -25,7 +25,7 @@ jobs:
 
       - name: Download Release File
         run: |
-          curl -L -O https://github.com/spring-office-hours/mdtohtml-cli/releases/download/v0.0.9/mdtohtml-linux-x86_64
+          curl -L -O https://github.com/spring-office-hours/mdtohtml-cli/releases/download/v0.0.11/mdtohtml-linux-x86_64
           mv ./mdtohtml-linux-x86_64 ./mdtohtml
           chmod +x ./mdtohtml
           ./mdtohtml
