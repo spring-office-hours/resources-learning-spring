@@ -40,6 +40,8 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [Spring Boot in Practice - Somnath Musib](https://www.amazon.com/Spring-Boot-Practice-Somnath-Musib/dp/1617298816)
 - [Pro Spring 6: An In-Depth Guide to the Spring Framework - Iuliana Cosmina, Rob Harrop, Chris Schaefer, Clarence Ho](https://www.amazon.com/Pro-Spring-Depth-Guide-Framework/dp/1484286391)
 - [Beginning Spring 6: From Beginner to Pro - Joseph B. Ottinger, Andrew Lombardi](https://a.co/d/67sFYHi)
+- [Beginning Spring Boot 3: Build Dynamic Cloud-Native Java Applications and Microservices - K. Siva Prasad Reddy, Sai Upadhyayula](https://www.amazon.com/Beginning-Spring-Boot-Cloud-Native-Microservices/dp/1484287916)
+- [Spring 6 Recipes: A Problem-Solution Approach to Spring Framework - Marten Deinum, Daniel Rubio, Josh Long](https://www.amazon.com/Spring-Recipes-Problem-Solution-Approach-Framework/dp/1484286480)
 
 ## Podcasts
 
