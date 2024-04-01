@@ -124,6 +124,7 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [Rashidi Zin's Spring Boot Tutorials](https://rashidi.github.io/spring-boot-tutorials/)
 - [StackTips Spring Boot Tutorials](https://github.com/StackTipsLab/spring-boot-tutorials)
 - [Pokemon Review Spring Boot](https://github.com/teddysmithdev/pokemon-review-springboot)
+- [Spring Modulith Hands On](https://github.com/odrotbohm/arch-evident-spring)
 
 ## Spring Upgrade Resources
 
