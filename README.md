@@ -135,6 +135,7 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 
 ## Community Favorites
 
+- [Spring Builders](https://springbuilders.dev)
 - [Spring Users - LinkedIn Group](https://www.linkedin.com/groups/46964/)
 - [Spring Boot Developers - Facebook Group](https://www.facebook.com/groups/springbootdevs)
 - [Reddit - Spring Boot](https://www.reddit.com/r/SpringBoot/)
