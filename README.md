@@ -141,3 +141,9 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [Reddit - Spring Boot](https://www.reddit.com/r/SpringBoot/)
 - [StackOverflow](https://stackoverflow.com/questions/tagged/spring-boot)
 - [Gitter](https://gitter.im/spring-projects/home)
+
+## Tools
+
+- [SDKMAN](https://sdkman.io)
+- [JHipster](https://www.jhipster.tech/)
+- [Bootify](https://bootify.io/)
