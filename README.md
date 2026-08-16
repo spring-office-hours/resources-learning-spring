@@ -81,6 +81,7 @@ courses, videos, and anything else that you have found helpful in learning Sprin
 - [Selenium Express](https://www.youtube.com/@SeleniumExpress)
 - [The Tech Mojo](https://youtube.com/@TheTechMojo)
 - [Teddy Smith](https://www.youtube.com/@TeddySmithDev)
+- [LeetJourney](https://www.youtube.com/@LeetJourney)
 
 ## Blogs
 
